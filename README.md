@@ -2,6 +2,10 @@
 
 A custom Home Assistant Lovelace card — the companion UI for the [Differential Temperature Control blueprint](https://github.com/scrap-code/ha-blueprint-dtcontrol).
 
+## Screenshot
+
+![Differential Temperature Card](difftempcard.png)
+
 ## What it does
 
 Gives you a clean, at-a-glance panel for your differential temperature heating setup:
